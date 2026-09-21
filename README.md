@@ -43,5 +43,5 @@ Projetos e experimentos com sistemas embarcados e microcontroladores STM32.
 
 ## 📫 Contato
 
-- LinkedIn: coloque-seu-link
+- LinkedIn: (https://www.linkedin.com/in/luiz-augusto-27ab58142/)
 - GitHub: [luizdevmaster](https://github.com/luizdevmaster)
